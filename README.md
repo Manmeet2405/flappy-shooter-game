@@ -23,14 +23,13 @@ SPACE → Return to Menu
 
 
 🛠️ Installation & Setup
-Clone the repository:
-git clone https://github.com/your-username/flappy-shooter-game.git
-Navigate to the folder:
-cd flappy-shooter-game
+-Clone the repository
+-Navigate to the folder
+-cd flappy-shooter-game
 Install dependencies:
-pip install pygame
+-pip install pygame
 Run the game:
-python game.py
+-python game.py
 
 
 📦 Optional: Run EXE Version
